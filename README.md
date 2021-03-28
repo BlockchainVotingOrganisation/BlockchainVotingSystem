@@ -80,3 +80,5 @@ Es gibt jedoch Weiterentwicklungen von Kryptowährungen, die das Problem adressi
 ### Funktionsweise von Blockchain basierten Wahlsystemen
 
 Je nach Szenario, zum Beispiel staatlich organisierte allgemeine Wahlen, oder interne Abstimmungen in Unternehmen, benötigt man eine Anzahl sogenannter "Mining-Nodes" für das Errechnen der Transaktionen, eine App, die den Teilnehmer*innen, die Registrierung, Durchführung und Überprüfung der Wahlergebnisse ermöglicht und dazu die Anwendungen für die Korrekte Auswertung, Publizierung und Darstellung der Wahlergebnisse.
+
+#### Mining Nodes
