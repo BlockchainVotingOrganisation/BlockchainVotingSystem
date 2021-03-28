@@ -76,3 +76,5 @@ zugeordnet und werden alle Stimmen gezählt
 Bei konventionellen Kryptowährungen, wie zum Beispiel dem Bitcoin-Netzwerk, ist keine Geheimhaltung der
 Informationen und der Metadaten vorgesehen. Jede Transaktion läßt sich transparent zum Absender und Empfänger verfolgen. Dadurch würde die Anforderung an ein elektronisches Wahlsystem, eine geheime Wahl zu ermöglichen und resistent gegen Erpressungsversuche zu sein, nicht erfüllt werden.
 Es gibt jedoch Weiterentwicklungen von Kryptowährungen, die das Problem adressieren: Techniken wie zum Beispiel "Ring-Signaturen" ermöglichen den Schutz der Privatssphäre, ohne die Sicherheit und Konsistenz der Blockchain-Datenbank zu gefährden.
+
+### Funktionsweise von Blockchain basierten Wahlsystemen
