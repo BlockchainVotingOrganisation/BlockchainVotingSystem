@@ -82,3 +82,9 @@ Es gibt jedoch Weiterentwicklungen von Kryptowährungen, die das Problem adressi
 Je nach Szenario, zum Beispiel staatlich organisierte allgemeine Wahlen, oder interne Abstimmungen in Unternehmen, benötigt man eine Anzahl sogenannter "Mining-Nodes" für das Errechnen der Transaktionen, eine App, die den Teilnehmer*innen, die Registrierung, Durchführung und Überprüfung der Wahlergebnisse ermöglicht und dazu die Anwendungen für die Korrekte Auswertung, Publizierung und Darstellung der Wahlergebnisse.
 
 #### Mining Nodes
+
+Für alle Szenarien gilt, dass Mining, der veranstaltenden Organisation vorbehalten bleibt. Für Wahlen braucht man nur so viele Einheiten einer nativen Währung, wie maximal Stimmen abgegeben werden können. Da bei diesem Wahlsystem die geschürfte native Währung zur Stimmenabgabe und -Auszählung dienen soll, dürfen keine Einheiten dieser nativen Währung außerhalb der Organisation geschürft werden. Es sollten jedoch mindestens so viele Mining-Nodes existieren, dass alle Transaktionen ohne Wartezeit angenommen werden können.
+
+### Blockchain-Architektur
+
+Die Geschwindigkeit der Blockgenerierung und die Blockgröße haben einen entscheidenden Anteil daran, wie wiele Transaktionen in einer bestimmten Zeit abgearbeitet werden können. Fast alle bisherigen Kryptowährungen hatten bei zunehmender Beliebtheit Probleme mit der Kapazität. Ein Wahlsystem muss die auftretenden Spitzenbelastungen sicher bewältigen können ohne dass Benutzer*innen entäuscht werden oder das System gar verlassen.
