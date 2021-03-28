@@ -78,3 +78,5 @@ Informationen und der Metadaten vorgesehen. Jede Transaktion läßt sich transpa
 Es gibt jedoch Weiterentwicklungen von Kryptowährungen, die das Problem adressieren: Techniken wie zum Beispiel "Ring-Signaturen" ermöglichen den Schutz der Privatssphäre, ohne die Sicherheit und Konsistenz der Blockchain-Datenbank zu gefährden.
 
 ### Funktionsweise von Blockchain basierten Wahlsystemen
+
+Ja nach Szenario, zum Beispiel staatlich organiserte allgemeine Wahl, oder interne Abstimmungen in Unternehmen, bei Anteilseignern oder dergleichen, benötigt man eine Anzahl sogenannter "Mining-Nodes" für das Errechnen der Transaktionen, eine App, die den Teilnehmer*innen, die Registrierung, Durchführung und Überprüfung der Wahlergebnisse ermöglicht und die Anwendungen für die Korrekte Auswertung und Darstellung der Wahlergebnisse.
