@@ -1,4 +1,5 @@
 # BlockchainVotingSystem
+
 Eine der Anforderungen in Bezug auf die Integrität einer Online-Wahl ist, dass zum
 Schluss das Wahlergebnis überprüfbar sein muss. Die notwendige Geheimhaltung bei
 einer Wahl macht es jedoch schwer, ein Verfahren zu entwickeln, welches einerseits
@@ -21,6 +22,7 @@ Wahlsystem Stimmen verloren gehen, oder doppelt gespeichert werden.
 3. wurde die Stimme auch so gewertet wie gespeichert.
 
 ## Authentifizierung und Anonymität
+
 Für eine demokratische Wahl muss auch gewährleistet werden, dass nur berechtigte
 Wählerinnen ihre Stimme abgeben können und dass jeder die gleiche Anzahl von
 Stimmen hat. Gleichzeitig muss die Anonymität der abgegebenen Stimmen gewahrt
@@ -31,6 +33,7 @@ zu verfügen, kann für ein Online-Wahlsystem ausgenutzt werden, um den Wählern
 Nur berechtigte Wähler bekommen Coins für die jeweilige Wahl.
 
 ## Geheimhaltung und Mechanismus gegen Erpressungen
+
 Ein Online-Wahlsystem muss eine geheime Wahl garantieren. Da eine Online-Wahl
 unter „unkontrollierten“ Bedingungen stattfindet (nicht im Wahllokal sondern zuhause
 auf unsicheren Endgeräten), muss außerdem sichergestellt werden, dass kein
@@ -55,6 +58,20 @@ bekommen, um Kenntnis über die tatsächliche Wahlentscheidung der Wählerin zu
 erlangen – sei es mit oder ohne Kooperation der Wählerin.
 
 ## Blockchain-basierte Netzwerke zur Durchführung von Online-Wahlen
+
+Die Blockchain-Technologie, die mit der Erfindung der digitalen Kryptowährung
+Bitcoin, bekannt wurde, könnte das zentrale Problem der Transparenz und des
+Vertrauens bei Online-Wahlen lösen und andere Sicherheitsprobleme entschärfen. Im
+Gegensatz zu den bisher verwendeten Server-Client-Architekturen besteht der Kern
+der Blockchain-Technologie aus einer mittels Peer-To-Peer-Protokoll verteilten
+Datenbank, deren Integrität durch einen kryptografischen Hash-Algorithmus
+sichergestellt wird. Dadurch sind alle Vorgänge in dieser Datenbank für die
+Teilnehmer zugänglich und transparent. Bezogen auf ein Wahlsystem hieße das, dass
+alle Stimmzuweisungen und Stimmabgaben sicher aufgezeichnet würden und jeder
+Zugriff auf diese Informationen hätte und darüber hinaus die Gültigkeit dieser
+Informationen gesichert sei. Jeder Wähler kann zum Schluss überprüfen: Wurde meine
+meine Stimme wie beabsichtigt zugeordnet? Wurde meine Stimme gezählt wie
+zugeordnet und werden alle Stimmen gezählt
 
 Bei konventionellen Kryptowährungen, wie zum Beispiel dem Bitcoin-Netzwerk, ist die Geheimhaltung der
 Informationen und der Metadaten nicht vorgesehen. Jede Transaktion läßt sich zum Absender und Empfänger verfolgen. Dadurch würde die Anforderung an ein elektronisches Wahlsystem, resistent gegen Erpressungsversuche zu sin, nicht erfüllt werden.
