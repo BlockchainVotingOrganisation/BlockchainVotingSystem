@@ -68,10 +68,9 @@ Datenbank, deren Integrität durch einen kryptografischen Hash-Algorithmus
 sichergestellt wird. Dadurch sind alle Vorgänge in dieser Datenbank für die
 Teilnehmer zugänglich und transparent. Bezogen auf ein Wahlsystem hieße das, dass
 alle Stimmzuweisungen und Stimmabgaben sicher aufgezeichnet würden und jeder
-Zugriff auf diese Informationen hätte und darüber hinaus die Gültigkeit dieser
-Informationen gesichert sei. Jeder Wähler kann zum Schluss überprüfen: Wurde meine
+die Gültigkeit dieser Informationen überprüfen kann. Jeder Wähler kann zum Schluss überprüfen: Wurde meine
 meine Stimme wie beabsichtigt zugeordnet? Wurde meine Stimme gezählt wie
-zugeordnet und werden alle Stimmen gezählt
+zugeordnet und werden alle Stimmen gezählt?
 
 Bei konventionellen Kryptowährungen, wie zum Beispiel dem Bitcoin-Netzwerk, ist keine Geheimhaltung der
 Informationen und der Metadaten vorgesehen. Jede Transaktion läßt sich transparent zum Absender und Empfänger verfolgen. Dadurch würde die Anforderung an ein elektronisches Wahlsystem, eine geheime Wahl zu ermöglichen und resistent gegen Erpressungsversuche zu sein, nicht erfüllt werden.
@@ -88,3 +87,6 @@ Für alle Szenarien gilt, dass Mining, der veranstaltenden Organisation vorbehal
 #### Blockchain-Architektur
 
 Die Geschwindigkeit der Blockgenerierung und die Blockgröße haben einen entscheidenden Anteil daran, wie wiele Transaktionen in einer bestimmten Zeit abgearbeitet werden können. Fast alle bisherigen Kryptowährungen hatten bei zunehmender Beliebtheit Probleme mit der Kapazität. Ein Wahlsystem muss die auftretenden Spitzenbelastungen sicher bewältigen können ohne dass Benutzer*innen entäuscht werden oder das System gar verlassen. Die Blockchain sichert die Anonymität ihrer Benutzer durch Ring-Identitäten und der Verschleierung des Inhalts der jeweiligen Transaktionen. Mechanismen gegen "Double Spending" werden durch erweiterte Konsistensprüfungen der Nodes in der Blockchain realisiert.
+
+#### Wallets als Wahlapp
+
